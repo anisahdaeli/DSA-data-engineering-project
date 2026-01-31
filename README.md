@@ -1,8 +1,8 @@
-\# Data Engineering Project – Olist E-Commerce
+# Data Engineering Project – Olist E-Commerce
 
 
 
-\## Overview
+## Overview
 
 End-to-end data engineering pipeline untuk mengolah data e-commerce
 
@@ -10,21 +10,21 @@ Brazilian Olist menjadi data warehouse siap analisis: https://www.kaggle.com/dat
 
 
 
-\## Tech Stack
+## Tech Stack
 
-\- Python
+- Python
 
-\- PostgreSQL
+- PostgreSQL
 
-\- Pandas
+- Pandas
 
-\- SQLAlchemy
+- SQLAlchemy
 
-\- (Airflow – planned)
+- (Airflow – planned)
 
 
 
-\## Architecture
+## Architecture
 
 Raw → Staging → Processed → Data Warehouse → BI Tools
 
